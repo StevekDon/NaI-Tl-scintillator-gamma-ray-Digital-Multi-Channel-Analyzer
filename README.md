@@ -1,0 +1,2 @@
+# NaI-Tl-scintillator-gamma-ray-Digital-Multi-Channel-Analyzer
+The portable NaI(Tl) scintillation energy spectrum measurement system can accurately measure gamma rays in the environment, statistically provide radiation energy distribution, and assist in identifying radiation sources and intensities. Due to its portability and low cost, it can provide support for radiation monitoring and other applications.
