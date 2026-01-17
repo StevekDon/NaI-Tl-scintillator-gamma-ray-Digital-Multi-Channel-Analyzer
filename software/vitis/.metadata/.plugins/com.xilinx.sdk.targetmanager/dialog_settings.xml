@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item key="devices_info_Local" value="{&quot;cables&quot;:[{&quot;name&quot;:&quot;my vendor co my board 0ABC01A&quot;,&quot;indexContextMap&quot;:{&quot;2&quot;:&quot;jsn-my board-0ABC01A-4ba00477-0&quot;,&quot;3&quot;:&quot;jsn-my board-0ABC01A-23727093-0&quot;}}]}"/>
+	<item key="ddr_test_system-bitFile" value="C:\Users\Steve\Desktop\zynq7020\vivado_prj\vitis\ddr_test_system\_ide\bootimage\BOOT.bin"/>
+	<item key="ddr_test_system-bmmFile" value=""/>
+	<item key="ddr_test_system-target" value="Local"/>
+	<item key="ddr_test_system-device" value="Auto Detect"/>
+	<item key="ddr_test_system-partial_bit" value="false"/>
+	<item key="ddr_test_system-skip_rev_check" value="false"/>
+	<item key="programfpga.sdxproject" value="ddr_test_system"/>
+</section>

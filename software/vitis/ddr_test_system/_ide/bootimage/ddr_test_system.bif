@@ -1,0 +1,12 @@
+/* C:/Users/Steve/AppData/Local/Temp/bootgen_ddr_test_system8365413210523503759/sd_card_temp/boot.bif */
+/* Command to create bitstream .bin file:       */
+/*   bootgen -image <bif_file> -split bin -w    */
+/* Command to create BOOT.BIN file:             */
+/*   bootgen  -image <bif_file> -w -o i BOOT.BIN */
+/*system_wrapper*/
+the_ROM_image:
+{
+ [bootloader] C:/Users/Steve/Desktop/zynq7020/vivado_prj/vitis/system_wrapper/export/system_wrapper/sw/system_wrapper/boot/fsbl.elf
+ C:/Users/Steve/Desktop/zynq7020/vivado_prj/vitis/ddr_test/_ide/bitstream/system_wrapper.bit
+ C:/Users/Steve/Desktop/zynq7020/vivado_prj/vitis/ddr_test/Debug/ddr_test.elf
+}

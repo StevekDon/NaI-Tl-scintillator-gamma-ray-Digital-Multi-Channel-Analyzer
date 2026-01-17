@@ -1,0 +1,10 @@
+19:44:53 **** Incremental Build of configuration Debug for project fsbl1_system ****
+make all 
+Generating bif file for the system project
+generate_system_bif.bat 30426 C:/Users/Steve/Desktop/zynq7020/vivado_prj/vitis/system_wrapper_1/export/system_wrapper_1/system_wrapper_1.xpfm standalone_ps7_cortexa9_0 C:/Users/Steve/Desktop/zynq7020/vivado_prj/vitis/fsbl1_system/Debug/system.bif
+sdcard_gen --xpfm C:/Users/Steve/Desktop/zynq7020/vivado_prj/vitis/system_wrapper_1/export/system_wrapper_1/system_wrapper_1.xpfm --sys_config system_wrapper_1 --bif C:/Users/Steve/Desktop/zynq7020/vivado_prj/vitis/fsbl1_system/Debug/system.bif --bitstream C:/Users/Steve/Desktop/zynq7020/vivado_prj/vitis/fsbl1/_ide/bitstream/system_wrapper.bit --elf C:/Users/Steve/Desktop/zynq7020/vivado_prj/vitis/fsbl1/Debug/fsbl1.elf,ps7_cortexa9_0
+creating BOOT.BIN using C:/Users/Steve/Desktop/zynq7020/vivado_prj/vitis/fsbl1/_ide/bitstream/system_wrapper.bit
+Running D:/Xilinx2022/Vitis/2022.2/bin/bootgen  -image C:/Users/Steve/Desktop/zynq7020/vivado_prj/vitis/fsbl1_system/Debug/sd_card_temp/boot.bif -w -o i BOOT.BIN
+
+19:45:03 Build Finished (took 10s.231ms)
+

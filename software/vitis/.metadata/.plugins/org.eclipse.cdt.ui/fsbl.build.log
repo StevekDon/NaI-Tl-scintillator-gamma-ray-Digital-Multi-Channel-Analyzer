@@ -1,0 +1,17 @@
+15:50:00 **** Incremental Build of configuration Debug for project fsbl ****
+make all 
+make --no-print-directory pre-build
+a9-linaro-pre-build-step
+' '
+make --no-print-directory main-build
+'Building target: fsbl.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -LC:/Users/Steve/Desktop/zynq7020/vivado_prj/vitis/system_wrapper/export/system_wrapper/sw/system_wrapper/standalone_ps7_cortexa9_0/bsplib/lib -o "fsbl.elf"  ./src/fsbl_handoff.o ./src/fsbl_hooks.o ./src/image_mover.o ./src/main.o ./src/md5.o ./src/nand.o ./src/nor.o ./src/pcap.o ./src/ps7_init.o ./src/qspi.o ./src/rsa.o ./src/sd.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group -Wl,--start-group,-lxilffs,-lxil,-lgcc,-lc,--end-group -Wl,--start-group,-lrsa,-lxil,-lgcc,-lc,--end-group
+d:/xilinx2022/vitis/2022.2/gnu/aarch32/nt/gcc-arm-none-eabi/x86_64-oesdk-mingw32/usr/bin/arm-xilinx-eabi/../../libexec/arm-xilinx-eabi/gcc/arm-xilinx-eabi/11.2.0/real-ld.exe: fsbl.elf section `.heap' will not fit in region `ps7_ram_0_S_AXI_BASEADDR'
+d:/xilinx2022/vitis/2022.2/gnu/aarch32/nt/gcc-arm-none-eabi/x86_64-oesdk-mingw32/usr/bin/arm-xilinx-eabi/../../libexec/arm-xilinx-eabi/gcc/arm-xilinx-eabi/11.2.0/real-ld.exe: region `ps7_ram_0_S_AXI_BASEADDR' overflowed by 5344 bytes
+collect2.exe: error: ld returned 1 exit status
+make[1]: *** [makefile:43: fsbl.elf] Error 1
+make: *** [makefile:34: all] Error 2
+
+15:50:00 Build Finished (took 860ms)
+

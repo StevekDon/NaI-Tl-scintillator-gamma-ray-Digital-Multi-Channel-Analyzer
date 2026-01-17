@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item key="scw_hwspec" value="C:\Users\Steve\Desktop\zynq7020\vivado_prj\vitis"/>
+	<item key="soc_flash_files_selection" value="C:\Users\Steve\Desktop"/>
+	<item key="scw_hwspec_file_selection" value="C:\Users\Steve\Desktop\zynq7020\vivado_prj\vitis"/>
+	<item key="sdx_program_fpga_view_bit_bmm_browse_key" value="C:\Users\Steve\Desktop\zynq7020\vivado_prj\vitis\ddr_test_system\_ide\bootimage"/>
+</section>

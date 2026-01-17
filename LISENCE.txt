@@ -1,0 +1,103 @@
+Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
+(CC BY-NC-SA 4.0)
+
+=====================================================================
+
+Copyright (c) 2024–Present
+Steve Don
+
+This project is licensed under the Creative Commons Attribution-
+NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0).
+
+You are free to:
+- Share — copy and redistribute the material in any medium or format
+- Adapt — remix, transform, and build upon the material
+
+Under the following terms:
+- Attribution — You must give appropriate credit, provide a link to the
+  license, and indicate if changes were made.
+- NonCommercial — You may not use the material for commercial purposes.
+- ShareAlike — If you remix, transform, or build upon the material, you
+  must distribute your contributions under the same license.
+
+Full license text:
+https://creativecommons.org/licenses/by-nc-sa/4.0/
+
+---------------------------------------------------------------------
+
+Additional Declarations and Restrictions
+
+1. This project was completed independently by the author and has been
+   fully open-sourced. It does NOT involve any form of illegal acquisition
+   of achievements, academic misconduct, or disclosure of non-public or
+   confidential information.
+
+2. Any use of this project or its derivatives must comply strictly with
+   the CC BY-NC-SA 4.0 license.
+
+3. It is STRICTLY PROHIBITED to use any achievements, designs, data,
+   documents, code, or derivative works of this project for:
+   - Commercial profit-making activities;
+   - Personal or institutional scientific research papers, theses, or
+     academic publications WITHOUT PROPER AND EXPLICIT CITATION of this
+     project and its author.
+
+   Failure to provide proper attribution and citation in academic works
+   is considered a serious violation.
+
+4. Once any violation of the above restrictions is discovered, the author
+   reserves the right to pursue accountability to the fullest extent
+   permitted by law.
+
+5. If you have any questions regarding authorization, compliance, or
+   licensing, please contact the author via email:
+
+   tangzhijie@mail.ustc.edu.cn
+
+=====================================================================
+
+版权所有 (c) 2024–至今  
+Steve Don
+
+本项目采用 **知识共享署名-非商业性使用-相同方式共享 4.0 国际许可协议**
+（Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International，
+简称 CC BY-NC-SA 4.0）进行许可。
+
+您可以在以下条件下自由地：
+- 共享 —— 以任何媒介或形式复制、发行本作品
+- 演绎 —— 修改、转换或基于本作品进行再创作
+
+惟须遵守下列条件：
+- 署名 —— 必须注明原作者姓名、项目来源，并提供许可协议链接，
+  同时说明是否对原始内容作出修改
+- 非商业性使用 —— 不得将本项目或其衍生成果用于任何商业目的
+- 相同方式共享 —— 若基于本项目进行修改或再发布，必须采用相同的
+  CC BY-NC-SA 4.0 协议
+
+完整协议文本请参阅：
+https://creativecommons.org/licenses/by-nc-sa/4.0/
+
+---------------------------------------------------------------------
+
+补充声明与额外限制条款
+
+1. 本项目由作者本人独立完成，并已全部开源，不涉及任何形式的
+   非法成果窃取、学术不端行为，亦不包含任何非公开或涉密信息。
+
+2. 任何对本项目及其衍生成果的使用，均必须严格遵守 CC BY-NC-SA 4.0
+   协议及本补充声明。
+
+3. 【特别强调】严禁以下行为：
+   - 将本项目的任何成果用于商业盈利活动；
+   - 在个人或单位的科研论文、学位论文、学术报告或出版物中使用
+     本项目的任何成果，而未明确、规范地标注引用来源和作者。
+
+   未按要求进行学术引用的行为，将被视为严重侵权。
+
+4. 一经发现违反上述条款的行为，作者将依法追究相关责任，绝不姑息。
+
+5. 如对授权、合规或使用范围存在任何疑问，请通过以下邮箱联系作者：
+
+   tangzhijie@mail.ustc.edu.cn
+
+=====================================================================

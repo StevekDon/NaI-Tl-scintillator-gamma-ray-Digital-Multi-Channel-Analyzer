@@ -1,0 +1,16 @@
+//Measurement Time(s)0
+1800
+//Rise TimeNa 1
+20
+//Flat TimeNb 2
+180
+//Tao-D 3
+68
+//Threshold 4
+500
+//DelayCNT 5
+6
+//TrapzdlDelay 6
+16
+//AutoSave 7
+1

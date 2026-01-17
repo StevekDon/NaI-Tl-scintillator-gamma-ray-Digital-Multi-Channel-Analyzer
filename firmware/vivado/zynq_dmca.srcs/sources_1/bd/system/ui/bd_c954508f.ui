@@ -1,0 +1,60 @@
+{
+   "ActiveEmotionalView":"Default View",
+   "Default View_ScaleFactor":"0.466108",
+   "Default View_TopLeft":"-154,-230",
+   "ExpandedHierarchyInLayout":"",
+   "guistr":"# # String gsaved with Nlview 7.0r6  2020-01-29 bk=1.5227 VDI=41 GEI=36 GUI=JA:10.0 non-TLS
+#  -string -flagsOSRD
+preplace port DDR -pg 1 -lvl 7 -x 2360 -y 190 -defaultsOSRD
+preplace port FIXED_IO -pg 1 -lvl 7 -x 2360 -y 210 -defaultsOSRD
+preplace port GPIO_0_0 -pg 1 -lvl 7 -x 2360 -y 170 -defaultsOSRD
+preplace port UART_1 -pg 1 -lvl 7 -x 2360 -y 520 -defaultsOSRD
+preplace port port-id_adc_driver_clk -pg 1 -lvl 7 -x 2360 -y 680 -defaultsOSRD
+preplace port port-id_adc_pwr_en -pg 1 -lvl 7 -x 2360 -y 610 -defaultsOSRD
+preplace portBus adc_datain -pg 1 -lvl 0 -x -10 -y 530 -defaultsOSRD
+preplace inst processing_system7_0 -pg 1 -lvl 6 -x 2090 -y 220 -defaultsOSRD
+preplace inst axi_dma_0 -pg 1 -lvl 4 -x 1330 -y 390 -defaultsOSRD
+preplace inst axi_uartlite_0 -pg 1 -lvl 6 -x 2090 -y 530 -defaultsOSRD
+preplace inst xlconcat_0 -pg 1 -lvl 5 -x 1670 -y 420 -defaultsOSRD
+preplace inst ps7_0_axi_periph -pg 1 -lvl 2 -x 560 -y 170 -defaultsOSRD
+preplace inst rst_ps7_0_80M -pg 1 -lvl 1 -x 200 -y 430 -defaultsOSRD
+preplace inst axi_mem_intercon -pg 1 -lvl 5 -x 1670 -y 200 -defaultsOSRD
+preplace inst clk_wiz_1 -pg 1 -lvl 6 -x 2090 -y 680 -defaultsOSRD -resize 140 96
+preplace inst ila_0 -pg 1 -lvl 4 -x 1330 -y 200 -defaultsOSRD
+preplace inst adc_fir_0 -pg 1 -lvl 2 -x 560 -y 610 -defaultsOSRD
+preplace inst dmca_ip_0 -pg 1 -lvl 3 -x 940 -y 240 -defaultsOSRD
+preplace netloc adc_datain_1 1 0 3 10J 330 NJ 330 730J
+preplace netloc adc_fir_0_adc_fir_dataout 1 2 2 760 350 1100
+preplace netloc axi_dma_0_s2mm_introut 1 4 1 N 410
+preplace netloc axi_dma_0_s2mm_prmry_reset_out_n 1 2 3 770 490 NJ 490 1500
+preplace netloc axi_uartlite_0_interrupt 1 4 3 1510 490 1860J 450 2320
+preplace netloc clk_wiz_1_clk_out1 1 6 1 NJ 680
+preplace netloc dmca_ip_0_adc_dataout 1 1 3 390 380 NJ 380 1090
+preplace netloc dmca_ip_0_adc_pwr_en 1 3 4 1110J 70 NJ 70 NJ 70 2340J
+preplace netloc dmca_ip_0_trapezd_data 1 3 1 1120 190n
+preplace netloc dmca_ip_0_triangle_data 1 3 1 1140 210n
+preplace netloc processing_system7_0_FCLK_CLK0 1 0 7 20 540 370 340 740 360 1160 110 1510 320 1840 330 2330
+preplace netloc processing_system7_0_FCLK_RESET0_N 1 0 7 30 530 NJ 530 NJ 530 NJ 530 NJ 530 1820J 440 2320
+preplace netloc rst_ps7_0_80M_peripheral_aresetn1 1 1 5 380 350 750 370 1110 290 1520 330 1830
+preplace netloc xlconcat_0_dout 1 5 1 1820 260n
+preplace netloc axi_dma_0_M_AXI_S2MM 1 4 1 1500 140n
+preplace netloc axi_mem_intercon_M00_AXI 1 5 1 N 200
+preplace netloc axi_uartlite_0_UART 1 6 1 NJ 520
+preplace netloc dmca_ip_0_M00_AXIS 1 3 1 1130 200n
+preplace netloc processing_system7_0_DDR 1 6 1 NJ 190
+preplace netloc processing_system7_0_FIXED_IO 1 6 1 NJ 210
+preplace netloc processing_system7_0_GPIO_0 1 6 1 NJ 170
+preplace netloc processing_system7_0_M_AXI_GP0 1 1 6 370 10 NJ 10 NJ 10 NJ 10 NJ 10 2320
+preplace netloc ps7_0_axi_periph_M00_AXI 1 2 2 770 130 1150J
+preplace netloc ps7_0_axi_periph_M01_AXI 1 2 4 730 80 NJ 80 NJ 80 1850J
+preplace netloc ps7_0_axi_periph_M02_AXI 1 2 1 N 190
+levelinfo -pg 1 -10 200 560 940 1330 1670 2090 2360
+pagesize -pg 1 -db -bbox -sgen -170 0 2510 750
+"
+}
+{
+   "da_axi4_cnt":"13",
+   "da_board_cnt":"2",
+   "da_clkrst_cnt":"23",
+   "da_ps7_cnt":"1"
+}
