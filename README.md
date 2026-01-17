@@ -1,7 +1,6 @@
-<img width="1440" height="1001" alt="image" src="https://github.com/user-attachments/assets/48b68dfa-a8f0-4631-88e6-23a4c1cf6c95" /># NaI-Tl-scintillator-gamma-ray-Digital-Multi-Channel-Analyzer
-The portable NaI(Tl) scintillation energy spectrum measurement system can accurately measure gamma rays in the environment, statistically provide radiation energy distribution, and assist in identifying radiation sources and intensities. Due to its portability and low cost, it can provide support for radiation monitoring and other applications.
-
 # Portable NaI(Tl) Scintillator Gamma-ray Spectrometer System
+
+The portable NaI(Tl) scintillation energy spectrum measurement system can accurately measure gamma rays in the environment, statistically provide radiation energy distribution, and assist in identifying radiation sources and intensities. Due to its portability and low cost, it can provide support for radiation monitoring and other applications.
 
 便携式 **NaI(Tl) 闪烁体环境伽玛射线能谱测量系统**。  
 这是一个完整开源的伽玛射线能谱仪项目，涵盖硬件、电路、FPGA 逻辑以及 PC 上位机软件。
@@ -10,6 +9,8 @@ The portable NaI(Tl) scintillation energy spectrum measurement system can accura
 https://oshwhub.com/steve-don/portable-naitl-scintillator-ambi
 
 ---
+
+<img width="1046" height="614" alt="image" src="https://github.com/user-attachments/assets/1d81f6f6-6204-42f4-aea2-a25da4a7d488" />
 
 ## ✨ Features
 
@@ -29,6 +30,7 @@ https://oshwhub.com/steve-don/portable-naitl-scintillator-ambi
 FPGA 完成脉冲提取、梯形成形、能量计算与多道分析（MCA），最终由 PS 端串口上传至 PC 上位机进行显示与存储。
 
 ---
+<img width="1188" height="612" alt="image" src="https://github.com/user-attachments/assets/9d322e7b-1b27-438b-a88c-c3cf34d19e8d" />
 
 ## 🎯 Application Scenarios
 
@@ -96,8 +98,35 @@ PC 上位机基于 **Qt** 开发，主要功能包括：
 ---
 
 ## 📁 Repository Structure
+** The hardware is designed using Chinese-made EDA tools, which are available in an online version. 
+** Please go to the end of the original project link and click "在编辑器中打开" to view the hardware design files
+** Therefore, the hardware design files provided in this repository only include schematic PDFs and PCB Gerber files
 
-
+```text
+.
+├── hardware/
+│   ├── schematics/
+│   ├── pcb/
+│   ├── bom/
+│   └── mechanical/
+│
+├── firmware/
+│   ├── vivado/
+│   ├── ip/
+│   └── bitstream/
+│
+├── software/
+│   ├── qt source/
+│   ├── vitis/
+│   └── qt release/
+│
+├── videos/
+│
+├── spectrum data/
+│
+├── LICENSE
+└── README.md
+```
 ---
 
 ## 📜 License
