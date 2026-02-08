@@ -8,7 +8,8 @@ The portable NaI(Tl) scintillation energy spectrum measurement system can accura
 ---
 The hardware is designed using Chinese-made EDA tools, and it is an online version accessible through a webpage. Please go to the beginning of the article on the original project page and click "打开设计图" to view the hardware design files
 
-Original Page - OSHWHUB：https://oshwhub.com/steve-don/portable-naitl-scintillator-ambi
+Original Page - OSHWHUB：
+https://oshwhub.com/eda_nclqrbkqc/portable-naitl-scintillator-ambi
 
 ** The original project website provides a detailed explanation of circuit design, composition, and principles, as well as detailed production processes for device selection, mechanical installation, Verilog algorithm design, C bare-metal code, and QT host computer. However, it is in Chinese. If you are interested, please use translation software to read it.
 ---
@@ -163,5 +164,5 @@ Issues & Pull Requests 都非常欢迎！
 ## 📎 Acknowledgements
 
 Original project published on **OSHWHUB**  
-Original WebSite: https://oshwhub.com/steve-don/portable-naitl-scintillator-ambi
+Original WebSite: https://oshwhub.com/eda_nclqrbkqc/portable-naitl-scintillator-ambi
 Author: Steve Don
